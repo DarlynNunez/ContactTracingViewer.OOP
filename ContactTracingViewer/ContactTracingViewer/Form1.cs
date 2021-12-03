@@ -13,7 +13,7 @@ namespace ContactTracingViewer
 {
     public partial class Form1 : Form
     {
-        static string filePathRecords = @"C:\Program Files (x86)\Microsoft";
+        static string filePathRecords = @"C:\Users\ADMIN\Documents\ContactTracingDatas\";
         static string[] files = Directory.GetFiles(filePathRecords);
 
         public Form1()
@@ -42,7 +42,7 @@ namespace ContactTracingViewer
             labelSearchWarning.Text = "";
             if (listBox.Text != "")
             {
-                string filePath = @"C:\Program Files (x86)\Microsoft" + listBox.Text + ".txt";
+                string filePath = @"C:\Users\ADMIN\Documents\ContactTracingDatas\" + listBox.Text + ".txt";
 
                 List<string> lines = new List<string>();
                 lines = File.ReadAllLines(filePath).ToList();
