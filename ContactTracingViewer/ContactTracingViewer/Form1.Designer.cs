@@ -45,19 +45,19 @@ namespace ContactTracingViewer
             // 
             // listBox
             // 
-            this.listBox.Font = new System.Drawing.Font("Tahoma", 12F);
+            this.listBox.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox.FormattingEnabled = true;
-            this.listBox.ItemHeight = 19;
+            this.listBox.ItemHeight = 20;
             this.listBox.Location = new System.Drawing.Point(12, 196);
             this.listBox.Name = "listBox";
-            this.listBox.Size = new System.Drawing.Size(577, 213);
+            this.listBox.Size = new System.Drawing.Size(577, 204);
             this.listBox.TabIndex = 3;
             // 
             // btnViewData
             // 
             this.btnViewData.BackColor = System.Drawing.Color.DarkCyan;
             this.btnViewData.FlatAppearance.BorderSize = 0;
-            this.btnViewData.Font = new System.Drawing.Font("Cooper Black", 13F);
+            this.btnViewData.Font = new System.Drawing.Font("Broadway", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnViewData.Location = new System.Drawing.Point(196, 4);
             this.btnViewData.Name = "btnViewData";
             this.btnViewData.Size = new System.Drawing.Size(199, 30);
@@ -70,11 +70,11 @@ namespace ContactTracingViewer
             // 
             this.labelTitle1.AutoSize = true;
             this.labelTitle1.BackColor = System.Drawing.Color.DarkSlateGray;
-            this.labelTitle1.Font = new System.Drawing.Font("Cooper Black", 26F);
+            this.labelTitle1.Font = new System.Drawing.Font("Broadway", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTitle1.ForeColor = System.Drawing.Color.Yellow;
             this.labelTitle1.Location = new System.Drawing.Point(27, 21);
             this.labelTitle1.Name = "labelTitle1";
-            this.labelTitle1.Size = new System.Drawing.Size(536, 40);
+            this.labelTitle1.Size = new System.Drawing.Size(560, 40);
             this.labelTitle1.TabIndex = 5;
             this.labelTitle1.Text = "Contact Tracing Data Viewer";
             // 
@@ -82,31 +82,31 @@ namespace ContactTracingViewer
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 12.5F);
+            this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(12, 172);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(121, 21);
+            this.label1.Size = new System.Drawing.Size(129, 20);
             this.label1.TabIndex = 6;
             this.label1.Text = "Select a name:";
             // 
             // txtBxSearch
             // 
-            this.txtBxSearch.Font = new System.Drawing.Font("Tahoma", 12F);
+            this.txtBxSearch.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBxSearch.Location = new System.Drawing.Point(15, 135);
             this.txtBxSearch.Name = "txtBxSearch";
-            this.txtBxSearch.Size = new System.Drawing.Size(395, 27);
+            this.txtBxSearch.Size = new System.Drawing.Size(395, 26);
             this.txtBxSearch.TabIndex = 7;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Tahoma", 12.5F);
+            this.label2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(12, 111);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(112, 21);
+            this.label2.Size = new System.Drawing.Size(121, 20);
             this.label2.TabIndex = 6;
             this.label2.Text = "Search name:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -116,10 +116,10 @@ namespace ContactTracingViewer
             this.btnSearch.BackColor = System.Drawing.Color.PaleTurquoise;
             this.btnSearch.FlatAppearance.BorderSize = 0;
             this.btnSearch.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnSearch.Font = new System.Drawing.Font("Tahoma", 12F);
+            this.btnSearch.Font = new System.Drawing.Font("Broadway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSearch.Location = new System.Drawing.Point(416, 134);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(75, 29);
+            this.btnSearch.Size = new System.Drawing.Size(82, 29);
             this.btnSearch.TabIndex = 8;
             this.btnSearch.Text = "Search";
             this.btnSearch.UseVisualStyleBackColor = false;
