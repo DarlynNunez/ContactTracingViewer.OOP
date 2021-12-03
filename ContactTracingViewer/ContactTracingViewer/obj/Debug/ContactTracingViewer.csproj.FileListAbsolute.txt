@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.exe.config
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.exe
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\bin\Debug\ContactTracingViewer.pdb
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.Form1.resources
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.exe
+C:\Users\ADMIN\Desktop\OOP\ContactTracingAppViewer.OOP\ContactTracingViewer.OOP\ContactTracingViewer\ContactTracingViewer\obj\Debug\ContactTracingViewer.pdb

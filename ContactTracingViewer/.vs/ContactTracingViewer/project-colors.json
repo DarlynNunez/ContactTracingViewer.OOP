@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4cda662-f59e-4395-91c3-e3d74f06be1c": {
+      "ProjectGuid": "a4cda662-f59e-4395-91c3-e3d74f06be1c",
+      "DisplayName": "ContactTracingViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
